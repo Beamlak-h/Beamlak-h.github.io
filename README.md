@@ -1,9 +1,61 @@
 
+# 👋🏾 Hi, I'm Batman!  
+🚀 **Computer Science & Statistics @ University of Alberta**  
+🖥️ Passionate about AI, Data Science, and Game Development  
+🎮 Creator of **[IronWild](https://vcodes-itch.itch.io/iron-wild-gold)** - A 2D RPG Shooter Game  
+📊 Exploring Reinforcement Learning & Computer Vision  
+
+---
+
+## 🔧 Tech Stack
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)  
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)  
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)  
+
+**Tools & Frameworks:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
+
+---
+
+## 📌 Notable Projects
+### 🎮 **Game Development**
+🕹️ **[IronWild](https://vcodes-itch.itch.io/iron-wild-gold)** - *2D RPG Shooter Game*  
+⭐ Built using Unity & C#  
+
+### 🤖 **AI & Machine Learning**
+📊 **Reinforcement Learning Models**  
+⭐ Implementing AI agents for game AI & automation  
+
+### 🛢️ **Data Science & Databases**
+🗄️ **Database Management System**  
+⭐ Optimized queries using SQL for efficiency  
+
+---
+
+## 📫 Connect with Me  
+🔗 [LinkedIn](#) | 🌍 [Portfolio](#) 
+
+
+
+
+
+
 
 # 👋🏾 Hi, I'm Beamlak!
 🚀 **Computer Science & Statistics @ University of Alberta**  
 🖥️ Passionate about AI, Data Science, and Game Development  
-🎮 Creator of a 2D RPG Shooting Game in Unity (IRONWILD) 
+🎮 Creator of a 2D RPG Shooting Game in Unity [IRONWILD] (https://vcodes-itch.itch.io/iron-wild-gold)
 📊 Exploring Reinforcement Learning & Computer Vision  
 
 ## 🔧 Tech Stack:
@@ -16,8 +68,8 @@
 
 ## 📌 Notable Projects:
 - ## 🎮 Play My Game:
-- 🕹️ [Play 2D RPG Shooter](https://vcodes-itch.itch.io/iron-wild-gold)
-- 🕹️ **2D RPG Shooter Game** - Built using Unity & C#  
+- 🕹️ **[IronWild](https://vcodes-itch.itch.io/iron-wild-gold)** 
+  - *2D RPG Shooter Game* - Built using Unity & C#  
 - 📊 **Reinforcement Learning Models** - Implementing AI agents  
 - 🛢️ **Database Management System** - Optimized queries with SQL  
 
